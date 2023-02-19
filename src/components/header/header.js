@@ -11,17 +11,17 @@ export const Header = () => {
             <ul>
               <li>
                 <Link href="/" passHref>
-                  <a> Home</a>
+                   Home
                 </Link>
               </li>
               <li>
                 <Link href="/events" passHref>
-                  <a> Events</a>
+                   Events
                 </Link>
               </li>
               <li>
                 <Link href="/about-us" passHref>
-                  <a> About us</a>
+                   About us
                 </Link>
               </li>
             </ul>
